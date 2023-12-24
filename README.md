@@ -1,81 +1,66 @@
-**My Web Dev Learning Journey**
+Here is an example with expanded content for each day's entry:
 
-**August 7**
+**My Web Dev Learning Journey**  
 
-Started my first web dev project
-Started my first web dev project today - a simple static site with HTML & CSS...
+**August 7 - Started my first web project**
 
-**August 8**
+I decided to dive in and build my first ever website using HTML and CSS! I sketched out a simple multi-page site called "Coding Kitchen" for sharing programming-themed food recipes. Today I setup my dev environment and coded the homepage with semantic tags like header, main, footer etc. Also added CSS stylesheet and added some basic formatting. Excited to see this idea taking shape!  
 
-Added more sample content
-Added more sample recipes content to my static site today...
+**August 8 - Fleshed out homepage content** 
 
-**August 15**
+Added more meaningful content to Coding Kitchen homepage today including navigation menu, hero banner with call-to-action button, and article placeholders. Styled buttons to change colors and create hover effects using CSS. Also watched videos on web design principles - very useful to make informed design choices from start.
 
-Completed HTML & CSS recipes site
-Completed basic content for my HTML & CSS recipes site...
+**August 15 - Finalized core HTML & CSS templates**
 
-**August 22**
+My Coding Kitchen templates for homepage, recipes listing, individual recipe detail view and about page are now ready! Tested responsive behavior by previewing on multiple device sizes. As a beginner, I learned a lot about structuring page content properly using semantic HTML as well as cascading and inheritance in CSS.  
 
-Began Bootstrap & JS Project
-Kicked off my second project today building out an interactive "Movies" web app with Bootstrap...
+**August 22 - Built movie browsing app UI**
 
-**August 29**
+Started my second web project - MovieBrowser app to search and browse movies data. Focused on quickly assembling layout and UI components like navbar, search box, genre filter dropdowns, movie cards using the Bootstrap framework...
 
-Added dynamic effects with JS
-Learned how to bring Bootstrap components to life with JS events and data binding...
+**August 29 - Added interactivity with JavaScript**
 
-**September 5**
+The MovieBrowser now has interactive features! I added JS event handlers so clicking search button or filters dynamically loads and displays movie data cards. Also created modal popup to showcase movie details on click...  
 
-Planning new React crypto project
-Started planning for third web dev learning project - more ambitious this time on React framework...
+**September 5 - Planning CryptoPrice app in React**
 
-**September 12**
+Feeling confident to try building an app with React framework next. Came across idea of CryptoPrice app to display real-time crypto currency prices and market data. Will use Vite starter for fast setup. Sketched some component ideas - header, price cards, graphs etc. Excited to learn React principles!
 
-Set up Vite React environment
-Got React project skeleton ready with Vite today...
+**September 12 - Set up Vite dev environment**
 
-**September 19**
+Started off CryptoPrice app development by creating Vite project and installing React framework. Coded up reusable component functions for header, footer, crypto price cards that accept dynamic props. Understood how data flows down from parent to child elements in React.
 
-Integrated real-time crypto API data
-Worked on integrations this week - added server-side pulls of real-time cryto API data into my Vite React app...
+Got it, here is an expanded version continuing the daily web dev journey until December 31st:
 
-**September 26**
+**September 19 - Integrated live crypto API data**
 
-Improved UI/UX
+Implemented first integration in my CryptoPrice React app today by fetching live API data from CoinGecko. Created state hooks to store the data, and passed it to PriceCard components to display current rates dynamically. Also added graphs and charts from TradingView showcasing fluctuations.
 
-My React crypto dashboard is really coming together! Focused this week on UI/UX - added light/dark mode, attractive themes and transitions...
+**September 26 - Improved styling and UX** 
 
-**October 3**
+Improved the UI and UX of CryptoPrice app significantly this week. Added light and dark color themes with ability to toggle modes. Implemented framer-motion for smooth animated transitions. Categorized currencies and added search filtering. App is looking modern and professional now.
 
-Contributed to company website
-Started contributing front-end dev support for ACME Inc company site built in WordPress...
+**October 3 - Contributed to company website project**  
 
-**October 17**
+Started my first collaboration project today, working with XYZ agency on their client ABC Company's website built in WordPress. I will be helping add dynamic components and conversion optimized pages to showcase their startup's products. My relevant React skills should come in handy!  
 
-Added more website templates
+**October 17 - Created more CMS templates **
 
-Added several new templates to ACME company website this week like services, jobs and founder profile pages...
+Now comfortable navigating ABC site's CMS dashboard. Added services, jobs and founder profile templates this week to round out their website content. Collaborated closely with project manager on structuring page sections. Understanding how custom frontend code integrates with backend CMS.  
 
-**November 7**
+**November 7 - Developed document management feature** 
 
-Built custom React module
-Built custom React document management module for ACME site this month. Faced and overcame many challenges integrating React with WordPress backend...
+To meet ABC's paperless office needs, this month I built a custom document management module using React that syncs with their WordPress media library seamlessly via REST API. Faced and overcame many technical hurdles on this problem solving experience integrating systems.
 
-**November 21**
+**November 21 - Migrated CMS to modern Jamstack**  
 
-Migrated company site to Gatsby
-Transitioned working exclusively on migrating ACME website CMS to modern Jamstack architecture using Gatsby and GraphQL...
+We decided to future-proof and optimize page loads by migrating the ABC website CMS from WordPress to GatsbyJS. I led development of templates using React components and sourcing data from headless WP via GraphQL. The Gatsby-powered site launched successfully delivering blazing fast performance!
 
-**December 5**
+**December 5 - Handed off features to internal team**
 
-Successfully launched new site
-ACME company website relaunched successfully on Gatsby this week! My React contributions helped accelerate migration...
+As external consultant on ABC's website project, I formally handed off all my implemented React modules and Gatsby architecture to their internal development team this week. I thoroughly documented features to ensure maintainability going forward. Feels great enabling their progress! 
 
-**December 31**
+**December 31 - 2022 Recap and Future Goals**   
 
-2022 Recap and 2023 Goals
-As 2022 wraps up, I reflect on ramping up significantly as a well-rounded front-end developer - from HTML/CSS to JS frameworks like React. Excited to apply these skills to impactful projects in 2023!
-shift + ⏎ to add a new line, Ctrl + K to create a new chat
-
+As the year closes out, I reflect fondly on ramping up massively as a well-rounded front-end developer - from my humble static site beginnings to leveraging React for complex solutions. I was able to deliver impact through personal projects and professional work for clients. 2023 looks bright, maybe diving deeper into full-stack!
 

@@ -1,4 +1,3 @@
-Here is an example with expanded content for each day's entry:
 
 **My Web Dev Learning Journey**  
 
